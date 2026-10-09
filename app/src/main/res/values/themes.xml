@@ -1,0 +1,6 @@
+<resources>
+    <!-- Tema do app: Material 3, claro ou escuro conforme o sistema. -->
+    <style name="Base.Theme.TreinoFacil" parent="Theme.Material3.DayNight.NoActionBar" />
+
+    <style name="Theme.TreinoFacil" parent="Base.Theme.TreinoFacil" />
+</resources>

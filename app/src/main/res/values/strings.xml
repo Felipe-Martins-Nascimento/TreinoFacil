@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Treino Fácil</string>
+
+    <!-- Lista -->
+    <string name="list_title">Meus treinos</string>
+    <string name="series_format">%1$d séries de %2$d repetições</string>
+
+    <!-- Detalhe -->
+    <string name="detail_title">Detalhe do treino</string>
+    <string name="action_back">Voltar</string>
+    <string name="dumbbell_description">Ícone de halter</string>
+    <string name="no_description">Sem descrição para este exercício.</string>
+    <string name="rest_format">Descanso: %1$d segundos entre as séries</string>
+    <string name="tip_format">Dica: %1$s</string>
+    <string name="progress_format">%1$d de %2$d séries feitas (%3$d%%)</string>
+    <string name="add_set">Fiz mais 1 série</string>
+    <string name="reset">Zerar treino</string>
+    <string name="status_done">Concluído</string>
+    <string name="status_in_progress">Em andamento</string>
+    <string name="status_not_started">Não iniciado</string>
+</resources>
