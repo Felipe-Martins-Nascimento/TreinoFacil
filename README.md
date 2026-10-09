@@ -8,6 +8,14 @@ Trabalho individual da disciplina AC322A (Programação Mobile), UNAERP — **Pa
 
 > **Autor:** Felipe Martins Nascimento — RA 842399
 
+## Telas
+
+Capturas feitas rodando o APK de debug num emulador Android.
+
+| Lista de treinos (tela 1) | Detalhe do treino (tela 2) |
+|---|---|
+| ![Lista de treinos](docs/screenshots/01-lista-de-treinos.png) | ![Detalhe do treino](docs/screenshots/02-detalhe-do-treino.png) |
+
 ## Objetivo do app
 
 Resolver uma necessidade simples de quem treina: saber, durante o treino, quantas séries de cada exercício
