@@ -1,0 +1,18 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Segredos nunca devem ir para o GitHub (este projeto nao usa nenhum, mas fica protegido)
+.env
+*.jks
+*.keystore
+keystore.properties
+secrets.properties
